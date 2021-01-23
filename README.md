@@ -1,2 +1,7 @@
-# Copia-Wordpress-Site
-Site que criei me desafiando a copiar todo o layout de um outro site feito em wordpress!
+## ⏳ COPIA DO SITE WORDPRESS
+
+ ## Sobre
+ 
+Tentando testar meu conhecimento, resolvi pegar um site pronto da internet que foi feito com Wordpress e copia-lo ao máximo, com as linguagens:
+
+#### HTML5 , CSS3, JQUERY etc.
